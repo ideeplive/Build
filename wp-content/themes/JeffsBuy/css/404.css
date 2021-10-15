@@ -1,0 +1,15 @@
+.error-404 {
+                                min-height: 500px;
+                            }
+                            .error-404 h1 {
+                                font-size: 12em;
+                                font-weight: 700;
+                                color: #f54d56;
+                                text-transform: uppercase;
+                                padding-top: 120px;
+                            }
+                            .error-404 p {
+                                color: #4f4844;
+                                font-size: 1.2em;
+                                text-transform: uppercase;
+                            }
